@@ -10,7 +10,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he tra
 
 **Ingeniero Civil en Informática** apasionado por el desarrollo web, con experiencia en:
 
-- Desarrollo Frontend (React, HTML/CSS)
+- Desarrollo Frontend (React, HTML/CSS, JavaScript)
 - Backend básico (Node.js, PostgreSQL)
 - Automatización CI/CD (GitHub Actions)
 
