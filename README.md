@@ -42,6 +42,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he tra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="unity logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="42" alt="nodejs logo" />
+          
 </div>
 
 ---
