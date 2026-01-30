@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Alejandro Moyano
 
-### 💻 Frontend Developer | Software Engineer
+### 💻 Software Engineer
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he trabajado.
 
@@ -8,43 +8,72 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he tra
 
 ### 🔥 Sobre mí
 
-**Ingeniero Civil en Informática** apasionado por el desarrollo web, con experiencia en:
+👨‍💻 **Ingeniero Civil en Informática | Software Engineer**  
+Desarrollador **Full Stack** enfocado en crear aplicaciones web escalables, mantenibles y seguras.
 
-- Desarrollo Frontend (React, HTML/CSS, JavaScript)
-- Backend básico (Node.js, PostgreSQL)
-- Automatización CI/CD (GitHub Actions)
+💡 Experiencia en diseño y desarrollo de soluciones modernas, trabajando tanto en frontend como backend, aplicando buenas prácticas, control de versiones y bases de datos.
 
-**Actualmente ampliando mis habilidades en:**
+**Áreas de experiencia:**
+- Desarrollo Frontend con React y TypeScript
+- Backend robusto con Node.js y NestJS
+- Modelado y gestión de bases de datos SQL y NoSQL
+- Control de versiones con Git y flujos colaborativos
+- Automatización CI/CD con GitHub Actions
 
-🚀 Desarrollo Full Stack
+**Actualmente profundizando en:**
 
-🔐 Buenas prácticas de seguridad en aplicaciones web
-
-⚙️ Arquitectura de software escalable
+🚀 Arquitectura Full Stack  
+🔐 Seguridad en aplicaciones web  
+⚙️ Diseño de software escalable
 
 ---
 ### 🚀⚙️ Tecnologías y herramientas
 
+<br/>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="42" alt="react logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="42" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="csharp logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="unity logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="42" alt="nodejs logo" />
-          
+
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" />
+
+  <br/><br/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
+
+  <br/><br/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="42" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nestjs/nestjs-original.svg" height="42" />
+
+  <br/><br/>
+
+  <!-- Bases de datos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" />
+
+  <br/><br/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" />
+
 </div>
 
 ---
@@ -55,28 +84,10 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que he tra
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alejandromoyanomejias/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1568BB&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="48"
+         alt="LinkedIn" />
   </a>
 </div>
 
----
-### 📊 Estadísticas de GitHub
 
-###
-
-<div align="center">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=alejandromoyanom&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alejandromoyanom&layout=compact&langs_count=16&theme=radical" />
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandromoyanom/alejandromoyanom/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandromoyanom/alejandromoyanom/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/alejandromoyanom/alejandromoyanom/output/github-snake.svg" />
-</picture>
-
-###
