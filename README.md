@@ -70,7 +70,11 @@ Desarrollador **Full Stack** enfocado en crear aplicaciones web escalables, mant
   <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" />
+  <img 
+  src="https://cdn.simpleicons.org/github/e5e7eb"
+  height="42"
+  alt="GitHub"
+    />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" />
 
